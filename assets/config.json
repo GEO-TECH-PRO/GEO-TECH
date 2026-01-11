@@ -1,0 +1,24 @@
+{
+  "brand": "GEO-TECH",
+  "tagline_ar": "تعلم… صمّم… نفّذ | كورسات وخدمات جيوتقنية باحتراف",
+  "tagline_en": "From Soil to Structure — Training & Geotechnical Solutions",
+  "launch_offer_ar": "عرض إطلاق لمدة 15 يوم",
+  "launch_offer_en": "Launch offer for 15 days",
+  "contact": {
+    "email": "emad_alaa10@hotmail.com",
+    "whatsapp": "00201111952623"
+  },
+  "forms": {
+    "courses": {
+      "soil": "https://docs.google.com/forms/d/e/1FAIpQLSc_ON5AZZj-tdmB-2vyzhxAF9KtjByfe_Mev7kqDBnu9iwotg/viewform?usp=pp_url&entry.1434658571=Soil+Mechanics+Basics",
+      "foundation": "https://docs.google.com/forms/d/e/1FAIpQLSc_ON5AZZj-tdmB-2vyzhxAF9KtjByfe_Mev7kqDBnu9iwotg/viewform?usp=pp_url&entry.1434658571=Foundation+Design",
+      "plaxis2d": "https://docs.google.com/forms/d/e/1FAIpQLSc_ON5AZZj-tdmB-2vyzhxAF9KtjByfe_Mev7kqDBnu9iwotg/viewform?usp=pp_url&entry.1434658571=Plaxis+2D+Course",
+      "plaxis3d": "https://docs.google.com/forms/d/e/1FAIpQLSc_ON5AZZj-tdmB-2vyzhxAF9KtjByfe_Mev7kqDBnu9iwotg/viewform?usp=pp_url&entry.1434658571=Plaxis+3D+Course"
+    },
+    "services": {
+      "graduation": "https://docs.google.com/forms/d/e/1FAIpQLSc9qiCAbV4sc6o2mFPmw4PdU4uVNTm6Jm6Vu1ed1tarXpVjgg/viewform?usp=pp_url&entry.626828455=Graduation+Project+Full+Delivery+(%D8%A5%D8%AE%D8%B1%D8%A7%D8%AC+%D9%85%D8%B4%D8%B1%D9%88%D8%B9+%D8%AA%D8%AE%D8%B1%D8%AC+%D9%83%D8%A7%D9%85%D9%84)",
+      "report": "https://docs.google.com/forms/d/e/1FAIpQLSc9qiCAbV4sc6o2mFPmw4PdU4uVNTm6Jm6Vu1ed1tarXpVjgg/viewform?usp=pp_url&entry.626828455=Technical+/+Engineering+Report+(%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF+%D8%AA%D9%82%D8%B1%D9%8A%D8%B1+%D9%81%D9%86%D9%8A/%D9%87%D9%86%D8%AF%D8%B3%D9%8A)",
+      "drawings": "https://docs.google.com/forms/d/e/1FAIpQLSc9qiCAbV4sc6o2mFPmw4PdU4uVNTm6Jm6Vu1ed1tarXpVjgg/viewform?usp=pp_url&entry.626828455=Design+%26+Full+Drawings+Package+(%D8%AA%D8%B5%D9%85%D9%8A%D9%85+%D9%88%D8%A5%D8%AE%D8%B1%D8%A7%D8%AC+%D9%84%D9%88%D8%AD%D8%A7%D8%AA+%D9%83%D8%A7%D9%85%D9%84%D8%A9)"
+    }
+  }
+}
